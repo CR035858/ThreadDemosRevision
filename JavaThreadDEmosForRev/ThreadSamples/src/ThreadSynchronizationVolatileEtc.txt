@@ -1,0 +1,11 @@
+https://docs.oracle.com/javase/specs/jvms/se6/html/Threads.doc.html
+
+https://www.geeksforgeeks.org/method-block-synchronization-java/
+
+https://www.javamex.com/tutorials/synchronization_concurrency_synchronized2.shtml
+
+
+https://www.geeksforgeeks.org/volatile-keyword-in-java/
+
+
+
